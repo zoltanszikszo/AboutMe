@@ -5,7 +5,7 @@ My name is Zoltán and I am a sophomore studying Software Engineering Student at
 📚 What I'm Up To,:  
 - 👨‍🎓 Studying at @haagahelia as a Software Engineer  
 - ⚡ Trying out myself in different areas in the Tech Industry  
-- :computer: Currently working on a side-project which is a 2D Platformer Game in Unity Engine, written in C#
+- :computer: Currently working on a side-project which is a 2D Platformer Game in Unity Engine
 
 📧 Contact Me  <br>
   
