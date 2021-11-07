@@ -1,8 +1,8 @@
 **Hi there 👋, thanks for visiting!**
 
 <div align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoltanszikszo&layout=compact&theme=onedark">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=zoltanszikszo&show_icons=true&theme=onedark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoltanszikszo&layout=compact&theme=onedark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zoltanszikszo&show_icons=true&theme=onedark">
 </div>
 
 My name is Zoltán and I am a sophomore studying Software Engineering at Haaga-Helia University of Applied Sciences. <br> I'm seeking for an internship or a full-time job. If you are hiring, feel free to reach out!
